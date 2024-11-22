@@ -23,11 +23,12 @@ Backgroud material for the project: *Exploring the full Affine image symmetry gr
 - [Master thesis](https://uvagedl.github.io/Learning_the_Degree_of_Equivariance_for_Steerable_CNNs_fixed_typo_compressed.pdf) - Lars Veefkind
 - [Master thesis](https://gabri95.github.io/Thesis/thesis.pdf) - Gabriele Cesa
 - [Equivariant and Coordinate Independent Convolutional Networks](https://maurice-weiler.gitlab.io/cnn_book/EquivariantAndCoordinateIndependentCNNs.pdf) - Maurice Weiler,  Patrick Forré,  Erik Verlinde,  Max Welling
+- [A gentle introduction to Steerable Neural Networks](https://towardsdatascience.com/a-gentle-introduction-to-steerable-neural-networks-part-1-32323d95b03f) - Matteo Ciprian, Robert Schoonmaker
 
 ### Articles
 
 - [Affine Equivariant Networks Based on Differential Invariants](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Affine_Equivariant_Networks_Based_on_Differential_Invariants_CVPR_2024_paper.pdf)
-- [Exploiting Learned Symmetries in Group Equivariant Convolutions](https://arxiv.org/abs/2106.04914)  [[code]](https://github.com/Attila94/SepGroupPy)
+- [Exploiting Learned Symmetries in Group Equivariant Convolutions](https://arxiv.org/abs/2106.04914) - [GitHub](https://github.com/Attila94/SepGroupPy)
 
 ### Personal notes
 
