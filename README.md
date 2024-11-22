@@ -27,6 +27,7 @@ Backgroud material for the project: *Exploring the full Affine image symmetry gr
 ### Articles
 
 - [Affine Equivariant Networks Based on Differential Invariants](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Affine_Equivariant_Networks_Based_on_Differential_Invariants_CVPR_2024_paper.pdf)
+- [Exploiting Learned Symmetries in Group Equivariant Convolutions](https://arxiv.org/abs/2106.04914)  [[code]](https://github.com/Attila94/SepGroupPy)
 
 ### Personal notes
 
